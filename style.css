@@ -70,10 +70,12 @@ nav button {
 .section1 button {
     padding: 1rem 2rem;
     border: none;
-    border-radius: 5px;
-    background-color: black;
+    border-radius: 10px;
+    background-color: rgb(53, 174, 183);
     color: white;
-    font-family: "Noto Sans", sans-serif;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1rem;
+    box-shadow: 1rem 1rem 5rem black;
 }
 .section2{
     /* margin-top: 3rem; */
